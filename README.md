@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently working on some scripting projects and also looking into projects like Apache Druid
+- 🔭 I'm currently working on some scripting projects and also looking into projects from ASF
 - 🌱 I'm currently learning about distributing computing and some concepts around big data
 - 📫 How to reach me: You can find on twitter: http://twitter.com/imtantri
