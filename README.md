@@ -21,4 +21,4 @@ Here are some ideas to get you started:
  
 <a href="http://twitter.com/imtantri"><img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" align="left" height="48" width="48" ></a>
 <a href="https://www.linkedin.com/in/nagarajtantri/"><img src="https://i.stack.imgur.com/UEf12.png" align="left" height="48" width="48" ></a>
-<a href="https://nagaraj-tantri.medium.com/"><img src="https://i.stack.imgur.com/WivTW.png" align="left" height="48" width="48" ></a>
+<a href="https://nagarajtantri.medium.com/"><img src="https://i.stack.imgur.com/WivTW.png" align="left" height="48" width="48" ></a>
